@@ -12,7 +12,7 @@ const Footer = () => {
         href="https://justtayyabkhan.vercel.app"
         target="_blank"
         rel="noopener noreferrer"
-        className="text-indigo-400 hover:underline"
+        className="text-orange-400 hover:underline"
       >
         Tayyab Khan
       </Link>
